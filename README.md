@@ -5,47 +5,32 @@
 </h3>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=madhan12g&label=Profile%20Views&color=0e75b6&style=for-the-badge"
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=madhan12g&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
 
-  <a href="https://madhan12g.github.io/frontend">
-    <img
-      src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Portfolio-0e75b6?style=for-the-badge"
-      alt="Portfolio"
-    />
-  </a>
+<a href="https://madhan12g.github.io/frontend">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Portfolio-0e75b6?style=for-the-badge" alt="Portfolio"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/madhan2126g">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/madhan2126g">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-  <a href="mailto:MADHANGOPAL.2126@GMAIL.COM">
-    <img
-      src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
+<a href="mailto:MADHANGOPAL.2126@GMAIL.COM">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-  <a href="https://github.com/madhan12g">
-    <img
-      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+<a href="https://github.com/madhan12g">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 <img
   align="right"
@@ -56,7 +41,7 @@
 
 I'm **Madhan Raj G**, a passionate **Frontend Developer, AI Agent Developer and MERN Stack Developer** from India.
 
-I enjoy creating modern, responsive and interactive web applications and I'm especially interested in combining **Artificial Intelligence with Web Development**.
+I enjoy building modern, responsive and interactive web applications. I'm especially interested in combining **Artificial Intelligence with Web Development** to create useful real-world applications.
 
 ### 🚀 What I'm doing
 
@@ -79,15 +64,19 @@ I enjoy creating modern, responsive and interactive web applications and I'm esp
 <p align="center">
 
 <a href="https://madhan12g.github.io/frontend">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/madhan2126g">
-<img src="https://img.shields.io/badge/LinkedIn-Madhan%20Raj%20G-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Madhan%20Raj%20G-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/madhan12g">
+<img src="https://img.shields.io/badge/GitHub-madhan12g-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:MADHANGOPAL.2126@GMAIL.COM">
-<img src="https://img.shields.io/badge/Email-MADHANGOPAL.2126%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -101,7 +90,7 @@ I enjoy creating modern, responsive and interactive web applications and I'm esp
 
 <td width="33%" align="center">
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 Responsive Websites
 
@@ -117,7 +106,7 @@ Interactive Interfaces
 
 <td width="33%" align="center">
 
-## 🤖 Artificial Intelligence
+### 🤖 Artificial Intelligence
 
 AI Agents
 
@@ -133,7 +122,7 @@ AI-powered Websites
 
 <td width="33%" align="center">
 
-## 💻 Full Stack
+### 💻 Full Stack
 
 MERN Stack
 
@@ -235,15 +224,15 @@ REST APIs
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=madhan12g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-  height="180"
-  alt="GitHub Stats"
+src="https://github-readme-stats.vercel.app/api?username=madhan12g&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+height="180"
+alt="GitHub Stats"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhan12g&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  height="180"
-  alt="Top Languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhan12g&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+height="180"
+alt="Top Languages"
 />
 
 </p>
@@ -255,18 +244,18 @@ REST APIs
 <p align="center">
 
 <img
-  src="https://img.shields.io/github/repos/madhan12g?style=for-the-badge&logo=github&label=Total%20Repositories"
-  alt="Total Repositories"
+src="https://img.shields.io/github/repos/madhan12g?style=for-the-badge&logo=github&label=Total%20Repositories"
+alt="Total Repositories"
 />
 
 <img
-  src="https://img.shields.io/github/followers/madhan12g?style=for-the-badge&logo=github&label=Followers"
-  alt="Followers"
+src="https://img.shields.io/github/followers/madhan12g?style=for-the-badge&logo=github&label=Followers"
+alt="Followers"
 />
 
 <img
-  src="https://img.shields.io/github/stars/madhan12g?style=for-the-badge&logo=github&label=Stars"
-  alt="Stars"
+src="https://img.shields.io/github/stars/madhan12g?style=for-the-badge&logo=github&label=Stars"
+alt="Stars"
 />
 
 </p>
@@ -278,8 +267,8 @@ REST APIs
 <p align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=madhan12g&theme=tokyonight&hide_border=true"
-  alt="GitHub Contribution Streak"
+src="https://github-readme-streak-stats.herokuapp.com/?user=madhan12g&theme=tokyonight&hide_border=true"
+alt="GitHub Contribution Streak"
 />
 
 </p>
@@ -291,8 +280,8 @@ REST APIs
 <p align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=madhan12g&theme=tokyo-night&hide_border=true&area=true"
-  alt="Contribution Activity Graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=madhan12g&theme=tokyo-night&hide_border=true&area=true"
+alt="Contribution Activity Graph"
 />
 
 </p>
@@ -304,8 +293,8 @@ REST APIs
 <p align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=madhan12g&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=2&column=4"
-  alt="GitHub Trophies"
+src="https://github-profile-trophy.vercel.app/?username=madhan12g&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=2&column=4"
+alt="GitHub Trophies"
 />
 
 </p>
@@ -317,8 +306,8 @@ REST APIs
 <p align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhan12g&theme=tokyonight"
-  alt="GitHub Profile Summary"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhan12g&theme=tokyonight"
+alt="GitHub Profile Summary"
 />
 
 </p>
@@ -345,7 +334,4 @@ A modern and responsive **shoe e-commerce website** created with a focus on clea
 ### 🧰 Technologies
 
 ```text
-HTML
-CSS
-JavaScript
-Responsive Web Design
+HTML • CSS • JavaScript • Responsive Web Design
