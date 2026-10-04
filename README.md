@@ -326,15 +326,6 @@ I'm expanding my development journey into **Artificial Intelligence and AI Agent
 
 ### 🧠 Areas I'm Exploring
 
-```text
-🤖 AI Agents
-🧠 Generative AI
-🔗 LLM APIs
-💬 Conversational AI
-⚡ AI Automation
-🌐 AI-powered Applications
-🧩 Intelligent Web Applications
-💻 AI + MERN Applications
 <h2 align="center">🔥 GitHub Contribution Streak</h2>
 
 <p align="center">
@@ -353,3 +344,14 @@ I'm expanding my development journey into **Artificial Intelligence and AI Agent
     width="100%"
   />
 </p>
+
+```text
+🤖 AI Agents
+🧠 Generative AI
+🔗 LLM APIs
+💬 Conversational AI
+⚡ AI Automation
+🌐 AI-powered Applications
+🧩 Intelligent Web Applications
+💻 AI + MERN Applications
+
