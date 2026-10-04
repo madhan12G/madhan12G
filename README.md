@@ -335,3 +335,21 @@ I'm expanding my development journey into **Artificial Intelligence and AI Agent
 🌐 AI-powered Applications
 🧩 Intelligent Web Applications
 💻 AI + MERN Applications
+<h2 align="center">🔥 GitHub Contribution Streak</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=madhan12g&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=madhan12g&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution Activity Graph"
+    width="100%"
+  />
+</p>
